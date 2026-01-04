@@ -1,7 +1,8 @@
-🗺 Alec's Portfolio
+🗺 **Alec's Portfolio**
+
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
-📚 Table of Contents
+📚 **Table of Contents**
 1. Data Engineering
 2. SQL
 3. Python
