@@ -10,29 +10,34 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 6. CRM and Sales Processes
 7. Future Projects
 
-1. Data Engineering
+**Data Engineering**
    
 | Project Name                    | Completion date | Project Link                  | Description                                                                                        |
 |---------------------------------|-----------------|-------------------------------|----------------------------------------------------------------------------------------------------|
-| NY Income                       | Dec 2025        |                               |                                                                                                    |
+| NY Income                       | Dec 2025        |                               | Analysed New York income data to identify geographic income patterns and disparities using interactive visualisations. Skills                                                                                                  used:Tableau, Map Charts, Data Cleaning, Excel                                                                                                   
 | Netflix                         | Jan 2026        |                               | Analysed Netflix content data to explore genre distribution, release trends, and platform composition using interactive visual                                                                                                 analytics. Skills used: Tableau, Kaggle, Pie Charts, Area Charts                                                                                                                                 
 | Active Volcanoes                | Nov 2025        |                               | Built an interactive dashboard analysing live volcano locations and activity levels to visualise geographic distribution and eruption                                                                                          patterns worldwide. Skills used: Tableau, Map Charts, Area Charts, Bar Charts                                                                                                  
 
-
-2. SQL
+**SQL**
 Australia Event Sales trends Project | January 2026
 
-3. Python
+**Python**
 US Medial Insurance Project | July 2025
 
-4. Tableau
-Tree Consesus Project | October 2025 
+**Tableau**
 
-5. Excel & Google Sheets
+I use Tableau to transform complex datasets into clear, interactive dashboards that enable stakeholders to explore trends, patterns, and insights with ease. I’m experienced in building intuitive visualisations such as geo maps, bar and area charts, and designing user-friendly dashboards with filters and parameters. I also apply strong data preparation and cleaning practices to ensure accuracy, performance, and reliable reporting.
+
+| Project Name                    | Completion date | Project Link                  | Description                                                                                        |
+|---------------------------------|-----------------|-------------------------------|----------------------------------------------------------------------------------------------------|
+| NY Income                       | Dec 2025        |                               | Analysed New York income data to identify geographic income patterns and disparities using interactive visualisations. Skills                                                                                                  used:Tableau, Map Charts, Data Cleaning, Excel                                                                                                   
+| Netflix                         | Jan 2026        |                               | Analysed Netflix content data to explore genre distribution, release trends, and platform composition using interactive visual                                                                                                 analytics. Skills used: Tableau, Kaggle, Pie Charts, Area Charts                                                                                                                                 
+| Active Volcanoes                | Nov 2025        |                               | Built an interactive dashboard analysing live volcano locations and activity levels to visualise geographic distribution and eruption                                                                                          patterns worldwide. Skills used: Tableau, Map Charts, Area Charts, Bar Charts  
+**Excel & Google Sheets**
 OPE Salesboards | December 2024
 
-6. CRM and Sales Prossesses
+**CRM and Sales Prossesses**
 
-7. Alec's Future Projects
+**Alec's Future Projects**
 
 
