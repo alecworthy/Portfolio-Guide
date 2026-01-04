@@ -11,6 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 7. Future Projects
 
 1. Data Engineering
+   
 | Project Name                    | Completion date | Project Link                  | Description                                                                                        |
 |---------------------------------|-----------------|-------------------------------|----------------------------------------------------------------------------------------------------|
 | NY Income                       | Dec 2025        |                               |                                                                                                    |
