@@ -7,9 +7,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 3. Python
 4. Tableau
 5. Excel & Google Sheets
-7. Future Projects
+6. Future Projects
 
-**Data Engineering**
+🔄 **Data Engineering**
 
 I have a strong foundation in data engineering, focusing on building reliable, scalable data pipelines that transform raw data into analytics-ready datasets. My experience includes data extraction, cleaning, and transformation (ETL/ELT), database management, and ensuring data quality and integrity across systems. I work closely with analysts and stakeholders to design data structures that support efficient reporting, performance, and long-term data growth.
    
@@ -19,7 +19,7 @@ I have a strong foundation in data engineering, focusing on building reliable, s
 | OPEvents Salesboard                         | July 2024       |  [View](https://github.com/alecworthy/OPevents-Salesboard-)                            | Analysed Netflix content data to explore genre distribution, release trends, and platform composition using interactive visual                                                                                                 analytics. Skills used: Tableau, Kaggle, Pie Charts, Area Charts                                                                                                                                 
 | CRM Migration               | Nov 2024        |     [View](https://github.com/username/netflix)                          | Built an interactive dashboard analysing live volcano locations and activity levels to visualise geographic distribution and eruption                                                                                          patterns worldwide. Skills used: Tableau, Map Charts, Area Charts, Bar Charts                                                                                                  
 
-**SQL**
+🔹 **SQL**
 
 I use SQL to extract, transform, and analyse data efficiently across relational databases, writing clear and optimised queries to support reporting and insight generation. I’m experienced with joins, aggregations, subqueries, and data cleaning techniques to turn raw data into structured, reliable datasets. My SQL work underpins dashboards and analysis by ensuring data accuracy, performance, and consistency.
    
@@ -30,7 +30,7 @@ I use SQL to extract, transform, and analyse data efficiently across relational 
 | CRM Migration               | Nov 2025        |                               | Built an interactive dashboard analysing live volcano locations and activity levels to visualise geographic distribution and eruption                                                                                          patterns worldwide. Skills used: Tableau, Map Charts, Area Charts, Bar Charts      
 
 
-**Python**
+🗂️ **Python**
 
 I use Python for data analysis and automation, leveraging libraries such as Pandas and Matplotlib to clean, explore, and visualise complex datasets. I’m experienced in writing clear, reusable code to analyse trends, identify outliers, and support data-driven decision-making. My Python workflows focus on accuracy, efficiency, and producing insights that can be easily shared with technical and non-technical stakeholders.
    
@@ -40,7 +40,7 @@ I use Python for data analysis and automation, leveraging libraries such as Pand
 | Event Salesboard                         | Jan 2026        |                               | Analysed Netflix content data to explore genre distribution, release trends, and platform composition using interactive visual                                                                                                 analytics. Skills used: Tableau, Kaggle, Pie Charts, Area Charts                                                                                                                                 
 | CRM Migration               | Nov 2025        |                               | Built an interactive dashboard analysing live volcano locations and activity levels to visualise geographic distribution and eruption                                                                                          patterns worldwide. Skills used: Tableau, Map Charts, Area Charts, Bar Charts      
 
-**Tableau**
+📷 **Tableau**
 
 I use Tableau to transform complex datasets into clear, interactive dashboards that enable stakeholders to explore trends, patterns, and insights with ease. I’m experienced in building intuitive visualisations such as geo maps, bar and area charts, and designing user-friendly dashboards with filters and parameters. I also apply strong data preparation and cleaning practices to ensure accuracy, performance, and reliable reporting.
 
@@ -51,7 +51,7 @@ I use Tableau to transform complex datasets into clear, interactive dashboards t
 | Active Volcanoes                | Nov 2025        |                               | Built an interactive dashboard analysing live volcano locations and activity levels to visualise geographic distribution and eruption                                                                                          patterns worldwide. Skills used: Tableau, Map Charts, Area Charts, Bar Charts  
 
 
-**Excel & Google Sheets**
+📈 **Excel & Google Sheets**
 
 I use Excel and Google Sheets to analyse, organise, and report on data efficiently, building clear models that support day-to-day decision-making. I’m experienced with formulas, lookups, pivot tables, charts, and structured views to track performance and uncover insights. I also design clean, user-friendly sheets and reports that make complex data easy for stakeholders to understand and use.
    
@@ -61,6 +61,6 @@ I use Excel and Google Sheets to analyse, organise, and report on data efficient
 | Event Salesboard                         | Jan 2026        |                               | Analysed Netflix content data to explore genre distribution, release trends, and platform composition using interactive visual                                                                                                 analytics. Skills used: Tableau, Kaggle, Pie Charts, Area Charts                                                                                                                                 
 | CRM Migration               | Nov 2025        |                               | Built an interactive dashboard analysing live volcano locations and activity levels to visualise geographic distribution and eruption                                                                                          patterns worldwide. Skills used: Tableau, Map Charts, Area Charts, Bar Charts      
 
-**Alec's Future Projects**
+🚀 **Alec's Future Projects**
 
 
