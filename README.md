@@ -10,7 +10,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 4. Tableau
 5. Excel & Google Sheets
 6. Future Projects
-7. 
+   
 
 🔄 **Data Engineering**
 
@@ -63,5 +63,5 @@ I use Excel and Google Sheets to analyse, organise, and report on data efficient
 
 
 🚀 **Alec's Future Projects**
-
+I'm currently looking at expanding my skills further by updating my knowledge in Power BI as well as seeking a new role that I can apply my skills practically. 
 
