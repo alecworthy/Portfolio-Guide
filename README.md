@@ -29,7 +29,7 @@ I use SQL to extract, transform, and analyse data efficiently across relational 
    
 | Project Name                    | Completion date | Project Link                  | Description                                                                                        |
 |---------------------------------|-----------------|-------------------------------|----------------------------------------------------------------------------------------------------|
-| Event Sales Trends Study       | Dec 2025        |   [View]((https://github.com/alecworthy/Event-Sales-Study---SQL-Excel)   | Analysed Australian event sales data to uncover performance trends, customer behaviour, and revenue insights across bookings and events. Skills used: SQL, Joins, MySQL, Excel, Data Cleaning                                                                                             
+| Event Sales Trends Study       | Dec 2025        |   [View](https://github.com/alecworthy/Event-Sales-Study---SQL-Excel)   | Analysed Australian event sales data to uncover performance trends, customer behaviour, and revenue insights across bookings and events. Skills used: SQL, Joins, MySQL, Excel, Data Cleaning                                                                                             
 
 🗂️ **Python**
 
@@ -37,10 +37,7 @@ I use Python for data analysis and automation, leveraging libraries such as Pand
    
 | Project Name                    | Completion date | Project Link                  | Description                                                                                        |
 |---------------------------------|-----------------|-------------------------------|----------------------------------------------------------------------------------------------------|
-| CRM Pipeline Creation                      | Dec 2025        |                               | Analysed New York income data to identify geographic income patterns and disparities using interactive visualisations. Skills                                                                                                  used:Tableau, Map Charts, Data Cleaning, Excel                                                                                                   
-| Event Salesboard                         | Jan 2026        |                               | Analysed Netflix content data to explore genre distribution, release trends, and platform composition using interactive visual                                                                                                 analytics. Skills used: Tableau, Kaggle, Pie Charts, Area Charts                                                                                                                                 
-| CRM Migration               | Nov 2025        |                               | Built an interactive dashboard analysing live volcano locations and activity levels to visualise geographic distribution and eruption                                                                                          patterns worldwide. Skills used: Tableau, Map Charts, Area Charts, Bar Charts      
-
+| US Medical Insurance Study                      | Sep 2025        |  [View](https://github.com/alecworthy/My-US-medical-Insurance-Project)                             | Analysed U.S. medical insurance data to uncover cost drivers and patterns across demographics, health factors, and regions. Skills used: Python, Pandas, Matplotlib, Scatter Charts, Box Plots                                                                                                  
 
 📷 **Tableau**
 
