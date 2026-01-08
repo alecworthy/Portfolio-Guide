@@ -51,7 +51,7 @@ I use Tableau to transform complex datasets into clear, interactive dashboards t
 
 | Australian Flights                | Jan 2026       | [View](https://public.tableau.com/app/profile/alec.worthy3093/viz/Australiaflights/Dashboard1)                                | Analysed Australian flight data to uncover trends in routes, delays, and airline performance. Transformed raw datasets into clear insights to support operational and performance analysis. Skills used: Tableau, Map Charts, Pie Charts, Bar Charts
 
-| Rotten Tomatoes                | Jan 2026        | [View](https://public.tableau.com/app/profile/alec.worthy3093/viz/RottenTomatoesTopMovies/Dashboard1)                                | Analysed Rotten Tomatoes top movies to uncover patterns in ratings, genres, and release trends, presenting findings through clear, data-driven visualisations. Skills used: Tableau, bar charts, filters  
+| Rotten Tomatoes                | Jan 2026        | [View](https://public.tableau.com/app/profile/alec.worthy3093/viz/RottenTomatoesTopMovies/Dashboard1)                                | Analysed Rotten Tomatoes top movies to uncover patterns in ratings, genres, and release trends, presenting findings through clear, data-driven visualisations. Skills used: Tableau, bar charts, filters  |
 
 
 
