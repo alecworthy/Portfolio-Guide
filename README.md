@@ -1,7 +1,8 @@
-🗺 **Alec's Portfolio**
+# 🗺 **Alec's Portfolio**
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
+---
 
 📚 **Table of Contents**
 1. Data Engineering
@@ -10,7 +11,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 4. Tableau
 5. Excel & Google Sheets
 6. Future Projects
-   
+
+---
 
 🔄 **Data Engineering**
 
@@ -20,8 +22,9 @@ I have a strong foundation in data engineering, focusing on building reliable, s
 |---------------------------------|-----------------|-------------------------------|----------------------------------------------------------------------------------------------------|
 | OPEvents CRM Pipeline Creation                      | Jan 2025        |  [View](https://github.com/alecworthy/OPevents-CRM-development)  | Designed and implemented an end-to-end CRM sales pipeline to capture, track, and optimise the full customer journey. Built structured stages, automated data flows, and real-time dashboards to improve visibility, forecast accuracy, and sales performance across the team. Skills used: Moonstride, ELT, Reporting                               
 | OPEvents Salesboard                         | July 2024       |  [View](https://github.com/alecworthy/OPevents-Salesboard-)                            | Designed and built a sales leaderboard and performance tracker to monitor activity, track KPIs, and support data-driven sales management. Skills used: Google Sheets, Views, Formulas, Reporting                                                                                                                                
-| CRM Migration               | Nov 2024        |     [View](https://github.com/alecworthy/OPevents-CRM-development)                       |    Led the implementation of a new CRM system, integrating data sources and building dashboards to improve visibility, decision-making, and operational efficiency. Skills used:​ Moonstride, HubSpot, Dashboard Design & Reporting, ELT, Database Management                                                                                               
+| CRM Migration               | Nov 2024        |     [View](https://github.com/alecworthy/OPevents-CRM-development)                       |    Led the implementation of a new CRM system, integrating data sources and building dashboards to improve visibility, decision-making, and operational efficiency. Skills used:​ Moonstride, HubSpot, Dashboard Design & Reporting, ELT, Database Management |
 
+---
 
 🔹 **SQL**
 
@@ -29,7 +32,9 @@ I use SQL to extract, transform, and analyse data efficiently across relational 
    
 | Project Name                    | Completion date | Project Link                  | Description                                                                                        |
 |---------------------------------|-----------------|-------------------------------|----------------------------------------------------------------------------------------------------|
-| Event Sales Trends Study       | Dec 2025        |   [View](https://github.com/alecworthy/Event-Sales-Study---SQL-Excel)   | Analysed Australian event sales data to uncover performance trends, customer behaviour, and revenue insights across bookings and events. Skills used: SQL, Joins, MySQL, Excel, Data Cleaning                                                                                             
+| Event Sales Trends Study       | Dec 2025        |   [View](https://github.com/alecworthy/Event-Sales-Study---SQL-Excel)   | Analysed Australian event sales data to uncover performance trends, customer behaviour, and revenue insights across bookings and events. Skills used: SQL, Joins, MySQL, Excel, Data Cleaning   |
+
+---
 
 🗂️ **Python**
 
@@ -37,7 +42,9 @@ I use Python for data analysis and automation, leveraging libraries such as Pand
    
 | Project Name                    | Completion date | Project Link                  | Description                                                                                        |
 |---------------------------------|-----------------|-------------------------------|----------------------------------------------------------------------------------------------------|
-| US Medical Insurance Study                      | Sep 2025        |  [View](https://github.com/alecworthy/My-US-medical-Insurance-Project)                             | Analysed U.S. medical insurance data to uncover cost drivers and patterns across demographics, health factors, and regions. Skills used: Python, Pandas, Matplotlib, Scatter Charts, Box Plots                                                                                                  
+| US Medical Insurance Study                      | Sep 2025        |  [View](https://github.com/alecworthy/My-US-medical-Insurance-Project)                             | Analysed U.S. medical insurance data to uncover cost drivers and patterns across demographics, health factors, and regions. Skills used: Python, Pandas, Matplotlib, Scatter Charts, Box Plots |
+
+---
 
 📷 **Tableau**
 
@@ -51,7 +58,7 @@ I use Tableau to transform complex datasets into clear, interactive dashboards t
 | Australian Flights                | Jan 2026       | [View](https://public.tableau.com/app/profile/alec.worthy3093/viz/Australiaflights/Dashboard1)                                | Analysed Australian flight data to uncover trends in routes, delays, and airline performance. Transformed raw datasets into clear insights to support operational and performance analysis. Skills used: Tableau, Map Charts, Pie Charts, Bar Charts| 
 | Rotten Tomatoes                | Jan 2026        | [View](https://public.tableau.com/app/profile/alec.worthy3093/viz/RottenTomatoesTopMovies/Dashboard1)                                | Analysed Rotten Tomatoes top movies to uncover patterns in ratings, genres, and release trends, presenting findings through clear, data-driven visualisations. Skills used: Tableau, bar charts, filters  |
 
-
+---
 
 📈 **Excel & Google Sheets**
 
@@ -61,8 +68,9 @@ I use Excel and Google Sheets to analyse, organise, and report on data efficient
 |---------------------------------|-----------------|-------------------------------|----------------------------------------------------------------------------------------------------|
 | Study of Bitcoin                    | May 2025        |                               | Analysed historical Bitcoin price data to identify trends, volatility, and key market movements using structured spreadsheet analysis. Skills used: Excel, VLOOKUP, Pivot Tables, Line Charts.                                                                                                                                             
 | Event Salesboard                         | July 2024       |  [View](https://github.com/alecworthy/OPevents-Salesboard-)                            | Designed and built a sales leaderboard and performance tracker to monitor activity, track KPIs, and support data-driven sales management. Skills used: Google Sheets, Views, Formulas, Reporting                                                                                                                                           
-| Event Sales Growth               | Jan 2026        | [View](https://github.com/alecworthy/Event-Sales-Study---SQL-Excel)                              | Analysed event sales percentage growth over time to identify key drivers of performance changes and overall revenue momentum. Skills used: Excel, Waterfall Charts, Data Analysis, MySQL 
+| Event Sales Growth               | Jan 2026        | [View](https://github.com/alecworthy/Event-Sales-Study---SQL-Excel)                              | Analysed event sales percentage growth over time to identify key drivers of performance changes and overall revenue momentum. Skills used: Excel, Waterfall Charts, Data Analysis, MySQL |
 
+---
 
 🚀 **Alec's Future Projects**
 I'm currently looking at expanding my skills further by updating my knowledge in Power BI as well as seeking a new role that I can apply my skills practically. 
